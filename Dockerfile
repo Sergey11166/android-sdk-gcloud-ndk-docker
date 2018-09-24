@@ -1,4 +1,4 @@
-FROM sergey11166/android-sdk-gcloud
+FROM sergey11166/android-sdk-gcloud-docker
 
 ENV ANDROID_NDK=/opt/android-ndk-linux
 ENV ANDROID_NDK_HOME=/opt/android-ndk-linux
